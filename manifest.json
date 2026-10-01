@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "ONX Optimizer",
+    "description": "Resource Pack de optimización realista para Minecraft Bedrock. Mantiene el juego reconocible y evita hacks o modificaciones no compatibles con un Resource Pack.",
+    "uuid": "4e8ac4d9-0d18-41d1-9408-72f3e0bc5f88",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "d7bfc2fd-3fcf-4b52-90f7-e8eb9f6893b2",
+      "version": [1, 0, 0]
+    }
+  ]
+}
